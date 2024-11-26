@@ -60,3 +60,5 @@ mkdocs serve --watch-theme
 ```
 
 Otherwise, you'll need to stop the server (`control + C`) and restart it (`mkdocs serve`) to see the changes.
+
+test
